@@ -7,7 +7,7 @@
   &nbsp; / &nbsp;
   <a href="mailto:nisalgangana@gmail.com"><strong>Get in touch</strong></a>
   &nbsp; / &nbsp;
-  <a href="https://github.com/nisalgangana?tab=repositories"><strong>Explore my repositories</strong></a>
+  <a href="[https://github.com/nisalgangana?tab=repositories](https://github.com/nisalgangana?tab=stars)"><strong>⭐ Explore my projects</strong></a>
 </p>
 
 ## Building in the cloud. Taking care of what comes next.
